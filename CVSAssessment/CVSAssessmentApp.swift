@@ -11,7 +11,7 @@ import SwiftUI
 struct CVSAssessmentApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+          SearchImageView()
         }
     }
 }
